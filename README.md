@@ -13,7 +13,7 @@
 
 ```bash
 git clone https://github.com/LikoyakaTemik/discord-bypass-AmneziaVPN
-
+```
 ### 2. Импортирование в AmneziaVPN
 - Открываем клиент AmneziaVPN.
 - Переходим в раздел Раздельное туннелирование.
